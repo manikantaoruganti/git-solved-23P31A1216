@@ -15,16 +15,16 @@ console.log('=================================');
 
 function checkSystemHealth() {
   console.log(`[${new Date().toISOString()}] Checking system health...`);
-  
+
   // Check CPU usage
   console.log('✓ CPU usage: Normal');
-  
+
   // Check Memory
   console.log('✓ Memory usage: Normal');
-  
+
   // Check Disk
   console.log('✓ Disk space: Adequate');
-  
+
   console.log('System Status: HEALTHY');
 }
 
