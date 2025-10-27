@@ -13,7 +13,7 @@
 | Cloned template repo | ✅ |
 | Created personal repo | ✅ |
 | Resolved merge conflicts | ✅ |
-| Used required git commands | ✅ |
+| Used required git commands | ✅  |
 | Created documentation | ✅ |
 
 ---
@@ -43,3 +43,4 @@ Screenshots of Git operations are included in the **screenshots/** folder:
 - Practiced creating and managing remote repositories.  
 - Improved understanding of deployment-oriented version control workflows.  
 - Created complete changelogs and branch histories for submission.
+     
