@@ -32,7 +32,7 @@ Screenshots of Git operations are included in the **screenshots/** folder:
 
 - **checkpoint1.png** — Recent commits  
 - **checkpoint2.png** — Merge operations  
-- **checkpoint3.png** — Branch structure  
+- **checkpoint3.png** — Branch structure   
 
 ---
 
